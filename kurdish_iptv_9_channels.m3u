@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kurdish Sport",NRT Sport
+https://andam.uk/ytlive/nrtsport/index.m3u8
+#EXTINF:-1 group-title="Kurdish Sport",AVA Sport
+https://andam.uk/ytlive/avasport/index.m3u8
+#EXTINF:-1 group-title="Kurdish Sport",Duhok Sport
+http://duhok.badinan.xyz:1935/duhok/sp/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish TV",Rudaw
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 group-title="Kurdish TV",AVA Media
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Kurdish TV",Kurdmax
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1 group-title="Kurdish TV",Newline
+http://cdn.teradek.live:1935/live/ip/chunklist_w975425358.m3u8
+#EXTINF:-1 group-title="Kurdish Sport",Astera Sport
+http://dayamm10.site/images/JJ02.m3u8
+#EXTINF:-1 group-title="Kurdish TV",NRT
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
